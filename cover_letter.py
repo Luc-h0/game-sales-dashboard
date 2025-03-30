@@ -29,7 +29,7 @@ def show_cover_letter():
     My technical toolkit—SQL, Python, Power BI, and Excel—complements my analytical strengths in data cleaning, statistical testing, and visualization. Coupled with my understanding of freemium models and player segmentation from studying strategy games, I am well-prepared to tackle challenges like improving in-game monetization or identifying key performance indicators for VNG’s diverse portfolio. Certifications such as the Google Data Analyst Certificate (2022) and SQL from HackerRank (March 2025) further validate my readiness to deliver impactful results.
 
     What excites me most about VNG is your focus on creating engaging, data-informed gaming experiences that resonate with millions. I am particularly inspired by your mobile gaming innovations and would love to contribute to projects that blend creativity with analytics. My detail-oriented approach, teamwork skills, and fluency in Vietnamese and English (IELTS 6.5), along with intermediate Japanese (JLPT N3), position me to collaborate effectively in your dynamic, multicultural environment.
-pip freeze > requirements.txt
+
     I would be thrilled to bring my enthusiasm and expertise to VNG, helping to drive data-informed decisions that elevate player satisfaction and business success. Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team. Please feel free to contact me at [hodinhduyluc@gmail.com](mailto:hodinhduyluc@gmail.com) or (+84) 8777 31725.
 
     Sincerely,  
